@@ -19,9 +19,10 @@ To get started with the project, follow the steps below.
 ### Installation
 
 1. Clone the repository:
-[https://github.com/Akhileshkumarsingh21221/Google-Gemini-Pro-Chat-Application.git]
+
    ```bash
- cd gemini-pro-chat
+   https://github.com/Akhileshkumarsingh21221/Google-Gemini-Pro-Chat-Application.git
+   cd gemini-pro-chat
    ```
 
 2. Install dependencies:
