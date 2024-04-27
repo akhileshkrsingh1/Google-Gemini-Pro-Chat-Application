@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Initialize Gemini-Pro 
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=os.getenv("AIzaSyAMJ_ZT0UOhtI5kyNZvkN6DNUQwNKYaZuA"))
 model = genai.GenerativeModel('gemini-pro')
 
 # Gemini uses 'model' for assistant; Streamlit uses 'assistant'
